@@ -12,4 +12,4 @@ I am a third-year Ph.D. student in the Department of Statistics at UC Irvine. I 
 
 My current research interests are tensor factorization and latent factor modeling, and their application in recommender system and health data.
 
-[Here is my CV.](http://jiuchenzhang.github.io/files/CV.pdf)
+[Here is my CV.](http://jiuchenzhang.github.io/files/PHD_CV.pdf)
