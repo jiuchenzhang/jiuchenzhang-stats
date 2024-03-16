@@ -6,5 +6,5 @@ excerpt: ''
 date: 2024-03-01
 venue: 'Biometrika (Accepted)'
 paperurl: 'https://arxiv.org/abs/2311.12392'
-citation: ''
+citation: 'Zhang, Jiuchen, et al. "Individualized Dynamic Latent Factor Model with Application to Mobile Health Data." arXiv preprint arXiv:2311.12392 (2023).'
 ---
