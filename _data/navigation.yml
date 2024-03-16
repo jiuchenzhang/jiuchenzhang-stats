@@ -4,7 +4,7 @@ main:
     url: /publications/
   - title: "Talks and Honors"
     url: /talks/
-   - title: "Teaching and Mentoring"
+  - title: "Teaching and Mentoring"
     url: /teaching/
 
 #  - title: "CV"
