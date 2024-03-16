@@ -4,7 +4,7 @@ collection: publications
 #permalink: /publication/tensor-factorization-with-dependency
 excerpt: ''
 date: 2024-03-01
-venue: 'Biometrika (Acceptted)'
+venue: 'Biometrika (Accepted)'
 paperurl: 'https://arxiv.org/abs/2311.12392'
 citation: ''
 ---
